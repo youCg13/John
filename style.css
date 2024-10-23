@@ -1,0 +1,38 @@
+h1{
+    font-size: 50px;
+    background-color: rgb(192, 224, 5);
+    font-family: cursive;
+}
+h2{
+    background:linear-gradient(rgb(114, 114, 255) 0%, cyan 100%)
+}
+h3{
+    background-color: cadetblue;
+    font-family: cursive;
+}
+body{
+    text-align: center;
+}
+img{
+    width: 1000px;
+    border-radius: 2cqmin;
+    border-style: double;
+}
+i{
+    font-size: 50px;
+}
+#inicio{
+    background: linear-gradient(blue 0%,purple 50%, red 100%)
+}
+#historia{
+    background: linear-gradient(#FFDEAD 0%, blue 100%);
+}
+#primeira{
+    background: linear-gradient(rgb(232, 245, 112) 0%, rgb(67, 67, 182) 100%);
+}
+#curiosidade{
+    background: linear-gradient(rgb(68, 68, 255) 0%,#c2c2ff 100%)
+}
+.videos{
+    background-color: rgb(99, 0, 0);
+}
